@@ -1,2 +1,0 @@
-# smit-zomato-clone
-zomato
